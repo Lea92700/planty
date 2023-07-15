@@ -1,0 +1,29 @@
+# Translation of Plugins - Quantity Field on Shop Page for WooCommerce - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Quantity Field on Shop Page for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-17 09:47:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Quantity Field on Shop Page for WooCommerce - Development (trunk)\n"
+
+#. Author of the plugin
+msgid "Wooassist"
+msgstr "Wooassist"
+
+#. Description of the plugin
+msgid "Adds a ‘Quantity Field’ on the shop and category pages of your Woocommerce store. This allows the user to change the quantity of a product before adding it to the cart."
+msgstr "Ajoute un « champ de quantité » sur les pages boutique et de catégorie de votre boutique WooCommerce. Cela autorise l’utilisateur/utilisatrice à modifier la quantité d’un produit avant de l’ajouter au panier."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://wooassist.com"
+msgstr "http://wooassist.com"
+
+#. Plugin Name of the plugin
+msgid "Quantity Field on Shop Page for WooCommerce"
+msgstr "Quantity Field on Shop Page for WooCommerce"
