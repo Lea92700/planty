@@ -34,7 +34,7 @@ add_action( 'wp_enqueue_scripts', 'oceanwp_child_enqueue_parent_style' );
 function afficher_lien_admin_si_connecte($nav_menu, $args) {
     if (is_user_logged_in()) {
         $admin_url = admin_url();
-       $nav_menu.= '<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="' . $admin_url . '">Admin</a></li>';
+       $nav_menu.= '<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="' . $admin_url . '">Admin</a></li>';
     }
 	return $nav_menu;
 }
